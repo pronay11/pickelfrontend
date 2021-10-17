@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "../../../django-ecommerce"
+		},
+		{
+			"path": "../../../django-react-boilerplate"
+		},
+		{
+			"path": "../../../psd"
+		},
+		{
+			"path": "../../../profile"
+		},
+		{
+			"path": "../../../materialui"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../messenger"
+		}
+	],
+	"settings": {}
+}
