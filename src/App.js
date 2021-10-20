@@ -11,6 +11,7 @@ import CartContextProvider from './Global/CartContext';
 import Footer from './components/Footer';
 import Login from './components/Login';
 
+
 function App() {
   return (
     <div className="App">
