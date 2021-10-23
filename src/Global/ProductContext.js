@@ -26,7 +26,7 @@ const ProductContextProvider = (props) => {
 
     ])
     const getProducts = async() =>{
-        const response = await axios.get('http://127.0.0.1:8000/api/')
+        const response = await axios.get('https://djangopickelbackend.herokuapp.com/api/')
         console.log(response)
         setProducts(response.data)
     }
